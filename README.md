@@ -1,4 +1,4 @@
-# Sorteador sem repetiçãa
+# Sorteador sem repetição
 Com dificuldade de encontrar um sorteio de grupos sem repetição (para times de futebol ou RPG), decidi fazer um em python.
 
 # Sorteador 1
